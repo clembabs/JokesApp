@@ -1,4 +1,4 @@
-# jokes_app
+# Jokes App using Riverpod
 
 A new Flutter project using [Jokes API](https://v2.jokeapi.dev) and Riverpod State Management[Riverpod Docs](https://riverpod.dev).
 
